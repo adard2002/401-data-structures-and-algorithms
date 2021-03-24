@@ -5,16 +5,15 @@ public class BinarySearch
 	public static BinarySearch(int[] SortedArr, int Key)
 	{
 		int[] BinaryArr = new int[SortedArr.Length]
-		int[] numHold = (BinaryArr.Length / 2) // goes to center int
+		int[] KeySearch = (BinaryArr.Length / 2) // goes to center int
 
 
-        for (int i = 0; i < BinaryArr; i++)
+        for (int i <= Key; i < length; i++)
         {
-			if (Key > )
-        }
-		else if
-        {
+			if (int i < Key; Key.Length / 2)
+			{
 
+            }
         }
 
 
