@@ -13,7 +13,7 @@ Take an array of ints and reverse it
 
 ## Solution
 <!-- Embedded whiteboard image -->
-[array reverse](.assets/array-reverse.PNG)
+![array reverse](assets/array-reverse.PNG)
 
 
 # Unit Tests & Documentation
@@ -26,7 +26,7 @@ Insert a number in the center of an array of numbers
 
 
 ## Solution
-[array reverse](.assets/unit-tests.PNG)
+![array reverse](assets/unit-tests.PNG)
 
 
 # Binary search
@@ -50,4 +50,4 @@ if > 2 then Key.leng
 
 ## Solution
 <!-- Embedded whiteboard image -->
-[Binary Search](.assets/binarySearch.jpeg)
+![Binary Search](assets/binarySearch.jpeg)
