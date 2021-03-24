@@ -1,5 +1,4 @@
-﻿using Challenges.ArrayChallenges;
-using System;
+﻿using System;
 
 
 namespace Challenges

@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Challenges.ArrayChallenges
+namespace Challenges
 {
-    class ArrayReverse
+    public class ArrayReverse
     {
         public static int[] Reverse(int[] arr)
         {
