@@ -11,6 +11,8 @@ namespace DataStructures.LinkedLists
             Head = new Node(value);
         }
 
+
+
         public bool Include(int valueToFind)
         {
             Current - Head
@@ -27,10 +29,9 @@ namespace DataStructures.LinkedLists
 
 
 
-
-
             // throw new NotImplementedException();
         }
+
 
         public override string ToString()
         {
