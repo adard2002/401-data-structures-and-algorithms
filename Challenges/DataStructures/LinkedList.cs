@@ -13,7 +13,23 @@ namespace DataStructures.LinkedLists
 
         public bool Include(int valueToFind)
         {
-            throw new NotImplementedException();
+            Current - Head
+
+            while(Current is null)
+            {
+                return false;
+            }
+            else(Current.Value == value)
+            {
+                return true;
+                Current - Current.Next
+            }
+
+
+
+
+
+            // throw new NotImplementedException();
         }
 
         public override string ToString()
