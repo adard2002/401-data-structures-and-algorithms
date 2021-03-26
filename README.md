@@ -51,3 +51,17 @@ if > 2 then Key.leng
 ## Solution
 <!-- Embedded whiteboard image -->
 ![Binary Search](assets/binarySearch.jpeg)
+
+
+# Class 05: Linked List Implementation
+
+# Linked List Implementation
+<!-- Short summary or background information -->
+Create a loop for a node and be able to go to the next node.
+
+## Challenge
+<!-- Description of the challenge -->
+Create a Node class that has properties for the value stored in the Node, and a pointer to the next Node.
+
+## Approach & Efficiency
+<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
