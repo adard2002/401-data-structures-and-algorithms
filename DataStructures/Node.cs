@@ -1,8 +1,13 @@
-﻿namespace DataStructures.LinkedLists
-{
-    public class Node
-    {
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
+namespace DataStructures
+{
+    class Node
+    {
         public Node(int value)
         {
             this.Value = value;

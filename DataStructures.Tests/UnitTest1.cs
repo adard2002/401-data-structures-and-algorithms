@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace LinkedListTests
+namespace DataStructures.Tests
 {
     public class UnitTest1
     {

@@ -1,9 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace DataStructures.LinkedLists
+namespace DataStructures
 {
-    public class LinkedList
+    class LinkedList
     {
+
         public Node Head { get; set; }
 
         public void Insert(int value)
@@ -28,14 +33,6 @@ namespace DataStructures.LinkedLists
                 Current - Current.Next
             }
             */
-
-
-
-
-
-
-
-
 
             // throw new NotImplementedException();
         }

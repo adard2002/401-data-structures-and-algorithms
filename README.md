@@ -94,4 +94,4 @@ Unit tests must be passing before you submit your final solution code.
 
 
 ## Approach & Efficiency
-<!-- 
+![Linked List Insertions](assets/LinkedList06.jpeg)
