@@ -15,17 +15,25 @@ namespace DataStructures.LinkedLists
 
         public bool Include(int valueToFind)
         {
+            /*
             Current - Head
 
             while(Current is null)
             {
                 return false;
             }
-            else(Current.Value == value)
+            else Current.Value == value
             {
                 return true;
                 Current - Current.Next
             }
+            */
+
+
+
+
+
+
 
 
 
