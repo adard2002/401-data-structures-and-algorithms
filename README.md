@@ -65,3 +65,33 @@ Create a Node class that has properties for the value stored in the Node, and a 
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+
+
+# Class 06: Linked list insertions
+
+# Linked List Implementation
+<!-- Short summary or background information -->
+
+
+## Challenge
+<!-- Description of the challenge -->
+
+
+Utilize the Single-responsibility principle: any methods you write should be clean, reusable, abstract component parts to the whole challenge. You will be given feedback and marked down if you attempt to define a large, complex algorithm in one function definition.
+
+You have access to the Node class and all the properties on the Linked List class.
+
+Write tests to prove the following functionality:
+
+Can successfully add a node to the end of the linked list
+Can successfully add multiple nodes to the end of a linked list
+Can successfully insert a node before a node located i the middle of a linked list
+Can successfully insert a node before the first node of a linked list
+Can successfully insert after a node in the middle of the linked list
+Can successfully insert a node after the last node of the linked list
+Unit tests must be passing before you submit your final solution code.
+
+
+
+## Approach & Efficiency
+<!-- 
