@@ -97,7 +97,7 @@ Unit tests must be passing before you submit your final solution code.
 
 
 
-# Class 05: Linked List Implementation
+# Class 07: Linked List Implementation
 
 ## Challenge
 <!-- Description of the challenge -->
@@ -105,4 +105,14 @@ Write a method for the Linked List class which takes a number, k, as a parameter
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
-![Kth value from end of list](assets/Kth-value-from-end-of-list.jpeg)
+![Kth value from end of list](../assets/Kth-value-from-end-of-list.jpeg)
+
+
+
+# Class 08: Zip two linked lists
+
+## Challenge
+Write a function called zipLists which takes two linked lists as arguments. Zip the two lists together into one so the nodes alternate between the two lists return a reference to the head of the zipped list. 
+
+## Approach & Efficiency
+![ZipTwoLinkedLists](../assets/zipLists.jpeg)
