@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace DataStructures.StackssAndQueues
 {
-    class Class1
+    public class Stack
     {
+
+
+        // Creating a stack
+        Stack<int> myStack = new Stack<int>();
+        myStack.Push(1);
+
+
+
+
+
     }
 }
