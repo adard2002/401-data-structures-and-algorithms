@@ -4,15 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Challenges
+namespace DataStructures.StackssAndQueues
 {
-    class ZipTwoLink
+    class Class1
     {
-
-
-
-
-
-
     }
 }
