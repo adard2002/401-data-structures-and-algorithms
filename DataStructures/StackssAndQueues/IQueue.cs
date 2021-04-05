@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DataStructures.StackssAndQueues
 {
-    class Class1
+    interface IQueue<T>
     {
+        void Enqueue(T value);
+        T Dequeue();
+        T Peek();
+        bool IsEmpty { get; }
     }
 }

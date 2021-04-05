@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace DataStructures.StackssAndQueues
 {
-    class Class1
+    interface IStack<T>
     {
+        void Push(T value);
+        T Pop();
+        T Peek();
+        bool IsEmpty { get; }
+
     }
 }

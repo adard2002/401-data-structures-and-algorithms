@@ -6,15 +6,27 @@ using System.Threading.Tasks;
 
 namespace DataStructures.StackssAndQueues
 {
-    public class Stack
+    class Stack
     {
 
 
         // Creating a stack
-        Stack<int> myStack = new Stack<int>();
-        myStack.Push(1);
 
 
+
+        Stack<string> myStack = new Stack<string>();
+        myStack.Push("Billy");
+        myStack.Push("Bob");
+        myStack.Push("Joe");
+
+            Console.WriteLine("Stack of names:");
+
+
+
+        foreach(string item in myStack)
+            {
+                Console.WriteLine(item);
+            }
 
 
 
