@@ -36,8 +36,21 @@ namespace Challenges
         private Queue<cat> catStorage;
 
 
+        Dequeue(dog doggo)
+        {
+            if(dog == null)
+            {
+                return null;
+            }
+        }
 
-
+        Dequeue(cat catto)
+        {
+            if(cat == null)
+            {
+                return null;
+            }
+        }
 
     }
 }

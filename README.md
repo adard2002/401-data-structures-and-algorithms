@@ -130,3 +130,15 @@ The Stack instances have only push, pop, and peek methods. You should use your o
 ## Approach and Efficiency
 ![PseudoQueue](../assets/PseudoQueue.PNG)
 With each number in the queue we push it and pop it into the next stack repeatedly.
+
+
+# Class 12 : First-in, First out Animal Shelter.
+
+## Challenge 
+Create a class called AnimalShelter which holds only dogs and cats. The shelter operates using a first-in, first-out approach.
+Implement the following methods:
+- enqueue(animal): adds animal to the shelter. animal can be either a dog or a cat object.
+- dequeue(pref): returns either a dog or a cat. If pref is not "dog" or "cat" then return null.
+
+## Approach and Efficiency
+![AnimalShelter](../assets/Lab12ShelterWhiteboard.jpeg)
