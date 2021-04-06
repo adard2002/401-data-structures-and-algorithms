@@ -6,7 +6,21 @@ using System.Threading.Tasks;
 
 namespace Challenges
 {
-    class Class1
+    public class QueueWishStacks
     {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }
