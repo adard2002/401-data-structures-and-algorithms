@@ -142,3 +142,12 @@ Implement the following methods:
 
 ## Approach and Efficiency
 ![AnimalShelter](../assets/Lab12ShelterWhiteboard.jpeg)
+
+
+# Class 13: multi-bracket-validation
+
+## Challenge
+Create a function that should take a string as it's only argument, and should return a boolean representing whether or not the brackeets in the string are balanced or have it's matching bracket. 
+
+## Approach and Efficiency
+[MultiBracketValidation](../assets/challenge13.PNG)
