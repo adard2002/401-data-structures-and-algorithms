@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace DataStructures.Trees
 {
-    class BinaryTree
+    public class BinaryTree : BinarySearchTree
     {
+        public void Add(int number)
+        {
+
+        }
+
+        public bool Contains(int number)
+        {
+            return false;
+        }
+
     }
 }
