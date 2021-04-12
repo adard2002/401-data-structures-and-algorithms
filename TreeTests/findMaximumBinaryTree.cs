@@ -3,7 +3,7 @@ using Xunit;
 
 namespace TreeTests
 {
-    public class UnitTest1
+    public class findMaximumBinaryTree
     {
         [Fact]
         public void Test1()
