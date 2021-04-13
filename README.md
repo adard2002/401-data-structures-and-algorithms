@@ -181,3 +181,11 @@ Create a method called find-maximum-value which will return the maximum value in
 
 ## API
 <!-- Description of each method publicly available in each of your trees -->
+
+
+## Challenge Breadth-First
+<!-- Description of the challenge -->
+Be able to write a breadth first traversal methods which takes a Binary Tree as its unique input. And output the values in order.
+## Approach & Efficiency
+<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+[BreadthFirst](../assets/breadthtree.jpeg)
