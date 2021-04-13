@@ -8,7 +8,8 @@ namespace Challenges.challenge13
 {
     class MultiBracketValidation
     {
-        public static bool Main()
+        // MOVE TO TEST
+        /*
         {
             Stack<string> brackets = new Stack<string>();
             brackets.Push("{");
@@ -23,12 +24,9 @@ namespace Challenges.challenge13
                 Console.WriteLine(bracket);
             }
 
-            Console.WriteLine("\nPopping '{0}'", brackets.Pop());
-            Console.WriteLine("Peek at next item to destack: {0}",
                 brackets.Peek());
-            Console.WriteLine("Popping '{0}'", brackets.Pop());
         }
-        return TRUE;
+        */
     }
 }
 

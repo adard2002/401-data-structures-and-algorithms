@@ -8,9 +8,10 @@ namespace Challenges.LinkedList
 {
     public class KthFromTheEndTests
     {
+        /*
         [Fact]
         // Happy Path Test
-        public void Kth_from_the_end_returns_correct_value()
+        public void Kth_from_the_end_returns_correct_value();
 
         // Arrange
         List list = new LinkedList();
@@ -28,7 +29,7 @@ namespace Challenges.LinkedList
 
 
 
-
+        */
 
 
 

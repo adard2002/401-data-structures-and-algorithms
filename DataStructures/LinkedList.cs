@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace DataStructures
 {
-    class LinkedList
+    public class LinkedList
     {
-
+        /*
         public Node Head { get; set; }
 
         public void Insert(int value)
@@ -32,16 +32,19 @@ namespace DataStructures
                 return true;
                 Current - Current.Next
             }
+        }
+
             */
 
             // throw new NotImplementedException();
-        }
 
 
+    /*
         public override string ToString()
         {
             // TODO: homework
             return "NULL";
         }
+    */
     }
 }

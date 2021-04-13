@@ -20,7 +20,7 @@ namespace Challenges
         // Queue.enqueue(element)
 
 
-
+        /*
         Enqueue(dog doggo)
         {
 
@@ -30,7 +30,8 @@ namespace Challenges
         {
 
         }
-
+        */
+        /*
         private Queue<dog> dogStorage;
 
         private Queue<cat> catStorage;
@@ -51,6 +52,6 @@ namespace Challenges
                 return null;
             }
         }
-
+        */
     }
 }

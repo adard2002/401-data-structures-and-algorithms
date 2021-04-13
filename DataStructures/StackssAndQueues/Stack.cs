@@ -12,8 +12,7 @@ namespace DataStructures.StackssAndQueues
 
         // Creating a stack
 
-
-
+        /*
         Stack<string> myStack = new Stack<string>();
         myStack.Push("Billy");
         myStack.Push("Bob");
@@ -28,7 +27,7 @@ namespace DataStructures.StackssAndQueues
                 Console.WriteLine(item);
             }
 
-
+        */
 
     }
 }
