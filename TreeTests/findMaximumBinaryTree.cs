@@ -1,9 +1,9 @@
 using System;
 using Xunit;
 
-namespace Challenges.Tests
+namespace TreeTests
 {
-    public class UnitTest1
+    public class findMaximumBinaryTree
     {
         [Fact]
         public void Test1()
