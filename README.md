@@ -200,3 +200,4 @@ Write a function called FizzBuzzTree which takes a k-ary tree as an argument. De
 
 ## Approach and Efficiency
 [FizzBuzzTree](../assets/KAryTree.jpeg)
+[FizzBuzzTree](../assets/2ndWayKAryTree.jpeg)
