@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Challenges.Arrays
 {
-    class InsertionSort
+    public class int InsertionSort(int[] arr)
     {
         
     }
