@@ -229,3 +229,22 @@ In your blog article, visually show the output of processing this input array:
 - Present a complete set of working tests
 
 [MergeSort](../assets/MergeSort.jpeg)
+
+
+
+## Challenge - Quick Sort
+Set a pivot point, go through the array swapping values so that if they are less they are pivoted to the left and the greater are pivoted to the right. Call the sort for the left side of the array and then the right side.Keep sorting through it using smaller and smaller portions until the partition size is 1.
+
+### Approach and Efficiency
+[QuickSort](../assets/QuickSort.jpeg)
+
+## Challenge HashTables
+Implement a Hashtable with the following methods:
+
+add: takes in both the key and value. This method should hash the key, and add the key and value pair to the table, handling collisions as needed.
+get: takes in the key and returns the value from the table.
+contains: takes in the key and returns a boolean, indicating if the key exists in the table already.
+hash: takes in an arbitrary key and returns an index in the collection.
+
+### Approach and Efficiency
+[Hashtable](../assets/Hashtables.jpg)
