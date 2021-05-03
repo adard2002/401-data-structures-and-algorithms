@@ -248,3 +248,10 @@ hash: takes in an arbitrary key and returns an index in the collection.
 
 ### Approach and Efficiency
 [Hashtable](../assets/Hashtables.jpg)
+
+
+## Challenge - Hash Set
+Write a function that accepts a lengthy string parameter and return the first repeated word in the string.
+
+## Approach and Efficiency
+[HashSet](../assets/HashSet.jpg)
