@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Challenges.Hash
 {
-    class HashSet
+    public class HashSet
     {
+
     }
 }

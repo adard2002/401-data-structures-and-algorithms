@@ -3,7 +3,7 @@ using Xunit;
 
 namespace HashSetTest
 {
-    public class UnitTest1
+    public class HashSetTest
     {
         [Fact]
         public void Test1()
