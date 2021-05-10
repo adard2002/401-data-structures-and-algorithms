@@ -9,11 +9,11 @@ namespace DataStructures.StackssAndQueues
     class Queue
     {
 
-        public class Node
-        {
-            public Node next;
+        //public class Node
+        //{
+            //public Node next;
             //public Object data;
-        }
+        //}
 
         /*
         public class LinkedList

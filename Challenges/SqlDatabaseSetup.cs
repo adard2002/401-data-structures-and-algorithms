@@ -1,18 +1,13 @@
 ﻿using Microsoft.Data.Tools.Schema.Sql.UnitTesting;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Data;
-using System.Data.Common;
 
 namespace Challenges
 {
-    [TestClass()]
+    [TestClass]
     public class SqlDatabaseSetup
     {
 
-        [AssemblyInitialize()]
+        [AssemblyInitialize]
         public static void InitializeAssembly(TestContext ctx)
         {
             // Setup the test database based on setting in the
@@ -21,5 +16,13 @@ namespace Challenges
             SqlDatabaseTestClass.TestService.GenerateData();
         }
 
+    }
+
+    public class TestContext
+    {
+    }
+
+    internal class TestClassAttribute : Attribute
+    {
     }
 }

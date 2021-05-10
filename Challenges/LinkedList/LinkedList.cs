@@ -9,14 +9,14 @@ namespace DataStructures
 {
     class LinkedList
     {
-
+        /*
         public Node Head { get; set; }
 
         public void Insert(int value)
         {
             Head = new Node(value);
         }
-
+        */
 
         /*
         public bool Include(int valueToFind)
@@ -38,11 +38,12 @@ namespace DataStructures
             // throw new NotImplementedException();
         }
     */
-
+        /*
         public override string ToString()
         {
             // TODO: homework
             return "NULL";
         }
+        */
     }
 }
