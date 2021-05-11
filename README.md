@@ -210,3 +210,11 @@ Review the pseudocode below, then trace the algorithm by stepping through the pr
 
 ## Approach and Efficiency
 [InsertionSort](../assets/InsertionSort.jpeg)
+
+
+# Challenge - GetEdges
+- Given a business trip itinerary, and an Alaska Airlines route map, is the trip possible with direct flights? If so, how much will the total trip cost be?
+- Write a function based on the specifications above, which takes in a graph, and an array of city names. Without utilizing any of the built-in methods available to your language, return whether the full trip is possible with direct flights, and how much it would cost.
+
+## Approach and Efficiency
+[GetEdges](/assets/GetEdges.jpeg)
